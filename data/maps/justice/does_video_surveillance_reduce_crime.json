@@ -161,6 +161,275 @@
 	"no_sample_size": false,
 	"papers": [
 		{
+			"uuid": "lyd3Vnv2QE2LsrMa",
+			"openalex_id": "W1974604840",
+			"title": "Évaluation des effets de la télé-surveillance sur la criminalité commise dans 13 stations du métro de Montréal",
+			"authors": [
+				"Rachel Grandmaison",
+				"Pierre Tremblay"
+			],
+			"year": 2005,
+			"link": "https://doi.org/10.7202/017399ar",
+			"journal": {
+				"id": "S4210169225",
+				"retracted": false
+			},
+			"citations": 26,
+			"results": {
+				"consensus": "yes",
+				"conclusion": "no_unlike_literature",
+				"indirect": false
+			},
+			"quote": "Our analyses have been unable to detect any overall impact of CCTV cameras on the behavior of offenders. And controlling for kinds of crime or for specific areas and places within subway stations (depending on the location of cameras) did not change or qualify the initial overall no-effect finding",
+			"type": "Other",
+			"blinding": "None",
+			"sample_size": "NotSpecified",
+			"p_value": "NotApplicable",
+			"conflict_of_interest": "None",
+			"notes": []
+		},
+		{
+			"uuid": "zXiewmMr5CQA4P2X",
+			"openalex_id": "W2188340366",
+			"title": "Effects of Closed Circuit Television Surveillance on Crime",
+			"authors": [
+				"Brandon C. Welsh",
+				"David P. Farrington"
+			],
+			"year": 2008,
+			"link": "https://doi.org/10.4073/csr.2008.17",
+			"journal": {
+				"id": "S2739193000",
+				"retracted": false
+			},
+			"citations": 98,
+			"results": {
+				"consensus": "NotSpecified",
+				"conclusion": "yes_but_small_effect",
+				"indirect": false
+			},
+			"quote": "CCTV has a modest impact on crime. Effectiveness varies across settings. Surveillance is more effective at preventing crime in car parks, and less effective in city and town centers, public housing, and public transport",
+			"review": {
+				"type": "MetaAnalysis",
+				"reviews": false,
+				"estimate": false,
+				"count": 44,
+				"subpart": false
+			},
+			"type": "EcologicalStudy",
+			"blinding": "None",
+			"sample_size": "NotSpecified",
+			"p_value": "NotSpecified",
+			"conflict_of_interest": "None",
+			"notes": []
+		},
+		{
+			"uuid": "rtaTZxPXi24cIyMx",
+			"openalex_id": "W2156104847",
+			"title": "La télésurveillance policière dans les lieux publics: l'apprentissage d'une technologie",
+			"authors": [
+				"Mathieu Charest",
+				"Pierre Tremblay",
+				"Rémi Boivin",
+				"Maurizio D’Elia"
+			],
+			"year": 2010,
+			"link": "https://doi.org/10.3138/cjccj.52.5.449",
+			"journal": {
+				"id": "S4210170138",
+				"retracted": false
+			},
+			"citations": 6,
+			"results": {
+				"consensus": "no_consensus",
+				"conclusion": "yes_but_small_effect",
+				"indirect": false
+			},
+			"quote": "CCTV did manage to have an impact on the incidence of drugdealing transactions as well as a collateral impact on the incidence of other offences, especially violent crimes. The second and more common approach (passive), however, had no impact on crime",
+			"type": "CohortStudy",
+			"blinding": "None",
+			"sample_size": "NotSpecified",
+			"p_value": "NotSpecified",
+			"conflict_of_interest": "None",
+			"notes": []
+		},
+		{
+			"uuid": "7dv91eflpKzr2J3C",
+			"openalex_id": "W4249442905",
+			"title": "Evaluation of Camera Use to Prevent Crime in Commuter Parking Facilities: A Randomized Controlled Trial",
+			"authors": [
+				"Nancy G. La Vigne",
+				"Samantha S. Lowry"
+			],
+			"year": 2011,
+			"link": "https://doi.org/10.1037/e553172012-001",
+			"journal": {
+				"id": "NotPublished",
+				"retracted": false
+			},
+			"citations": 20,
+			"results": {
+				"consensus": "no_consensus",
+				"conclusion": "no",
+				"indirect": false
+			},
+			"quote": "Both theory and prior research support this study’s findings that the cameras had no discernable impact on crime. [...] cameras are most likely to have an impact when they are highly concentrated, actively monitored, and well integrated into law enforcement crime control and investigative activities",
+			"type": "EcologicalStudy",
+			"blinding": "None",
+			"sample_size": "NoAccess",
+			"p_value": "NotApplicable",
+			"conflict_of_interest": "None",
+			"notes": []
+		},
+		{
+			"uuid": "9u1Ymd5qN68Ed47X",
+			"openalex_id": "W2073915293",
+			"title": "Police-monitored CCTV cameras in Newark, NJ: A quasi-experimental test of crime deterrence",
+			"authors": [
+				"Joel M. Caplan",
+				"Leslie W. Kennedy",
+				"Gohar A. Petrossian"
+			],
+			"year": 2011,
+			"link": "https://doi.org/10.1007/s11292-011-9125-9",
+			"journal": {
+				"id": "S19400458",
+				"retracted": false
+			},
+			"citations": 119,
+			"results": {
+				"consensus": "no_consensus",
+				"conclusion": "yes_but_small_effect",
+				"indirect": false
+			},
+			"quote": "Overall, the system of cameras in Newark is not as efficient as it could be at deterring certain crimes. Some camera places are more effective than others. [...] The system of cameras in Newark significantly deters auto theft city-wide. However, shootings and thefts from autos are only deterred by cameras installed in certain places",
+			"type": "EcologicalStudy",
+			"blinding": "None",
+			"sample_size": "NotSpecified",
+			"p_value": "NotSpecified",
+			"conflict_of_interest": "None",
+			"notes": []
+		},
+		{
+			"uuid": "zxkCqdA9eHRonb4b",
+			"openalex_id": "W2094082325",
+			"title": "The crime-reduction effects of open-street CCTV in South Korea",
+			"authors": [
+				"Hyung-Jin Lim",
+				"Chang‐Joo Kim",
+				"John E. Eck",
+				"Jeonglim Kim"
+			],
+			"year": 2013,
+			"link": "https://doi.org/10.1057/sj.2013.10",
+			"journal": {
+				"id": "S74209221",
+				"retracted": false
+			},
+			"citations": 33,
+			"results": {
+				"consensus": "yes",
+				"conclusion": "no_but_mixed_results",
+				"indirect": false
+			},
+			"quote": "On average, open-street CCTV did not show a statistically significant effect on the reduction of serious crimes or disorder crimes. [...] The crime-reduction effects of open-street CCTV were different in each open-street CCTV location",
+			"type": "Other",
+			"blinding": "None",
+			"sample_size": "NotSpecified",
+			"p_value": "NotApplicable",
+			"conflict_of_interest": "None",
+			"notes": []
+		},
+		{
+			"uuid": "uMSPjkE50YG4N9Qh",
+			"openalex_id": "W2473292590",
+			"title": "Crime-Reduction Effects of Open-street CCTV: Conditionality Considerations",
+			"authors": [
+				"Hyung-Jin Lim",
+				"Pamela Wilcox"
+			],
+			"year": 2016,
+			"link": "https://doi.org/10.1080/07418825.2016.1194449",
+			"journal": {
+				"id": "S149422333",
+				"retracted": false
+			},
+			"citations": 44,
+			"results": {
+				"consensus": "yes",
+				"conclusion": "yes_but_small_effect",
+				"indirect": false
+			},
+			"quote": "Overall, the findings provided minimal evidence of the effectiveness of CCTV in reducing crime, though some types of crime were reduced in residential areas especially, and effectiveness was clearly interdependent with an area’s base rate of crime. [...] CCTV had significant reduction effects on assault, robbery, and burglary in residential areas, but it did not have significant reduction effects on auto theft and theft from auto in any location type",
+			"type": "EcologicalStudy",
+			"blinding": "None",
+			"sample_size": "NotSpecified",
+			"p_value": "NotSpecified",
+			"conflict_of_interest": "None",
+			"notes": []
+		},
+		{
+			"uuid": "6EZCRGTGOUUtEXOz",
+			"openalex_id": "W2408480602",
+			"title": "Hot Spot Policing With Actively Monitored CCTV Cameras",
+			"authors": [
+				"Manne Gerell"
+			],
+			"year": 2016,
+			"link": "https://doi.org/10.1177/1057567716639098",
+			"journal": {
+				"id": "S117214891",
+				"retracted": false
+			},
+			"citations": 41,
+			"results": {
+				"consensus": "towards_yes",
+				"conclusion": "no",
+				"indirect": false
+			},
+			"quote": "The results presented in this study suggest that the implementation of operational CCTV cameras at the square Stortorget in the town of Malmo¨ to improve directed patrol efforts has not had a significant crime-reducing effect on assaults",
+			"type": "Other",
+			"blinding": "None",
+			"sample_size": "NotSpecified",
+			"p_value": "NotApplicable",
+			"conflict_of_interest": "None",
+			"notes": [
+				{
+					"title": "Difference between American and Swedish context",
+					"description": "\"The main contribution of this article was to show that actively monitored CCTV cameras with directed patrols at hot spots of violent crime may be less effective in a Swedish context\nthan it appears to be in the North America.\"",
+					"impact": "Neutral"
+				}
+			]
+		},
+		{
+			"uuid": "N00OZhQOk4Sjvv4k",
+			"openalex_id": "W2585846938",
+			"title": "Exploring the effects of CCTV upon fear of crime: A multi-level approach in Seoul",
+			"authors": [
+				"Joon Tag Cho",
+				"Jisun Park"
+			],
+			"year": 2017,
+			"link": "https://doi.org/10.1016/j.ijlcj.2017.01.005",
+			"journal": {
+				"id": "S88457980",
+				"retracted": false
+			},
+			"citations": 28,
+			"results": {
+				"consensus": "no_consensus",
+				"conclusion": "yes_but_small_effect",
+				"indirect": false
+			},
+			"quote": "The results showed that the number of CCTV cameras was negatively associated with the fear of crime, but no significant effect was observed on the perceived risk of crime. In addition, the effects of CCTV differed by gender",
+			"type": "CrossSectionalStudy",
+			"blinding": "None",
+			"sample_size": "NotSpecified",
+			"p_value": "NotSpecified",
+			"conflict_of_interest": "None",
+			"notes": []
+		},
+		{
 			"uuid": "LlJTflnNc8KfupXN",
 			"openalex_id": "W2766707687",
 			"title": "Surveillance cameras and crime: a review of randomized and natural experiments",
@@ -195,6 +464,96 @@
 			"notes": []
 		},
 		{
+			"uuid": "giV0lAvkYfjsezG9",
+			"openalex_id": "W3117501855",
+			"title": "The effect of public surveillance cameras on crime clearance rates",
+			"authors": [
+				"Yeondae Jung",
+				"Andrew Wheeler"
+			],
+			"year": 2019,
+			"link": "https://doi.org/10.31235/osf.io/eh5bg",
+			"journal": {
+				"id": "NotPublished",
+				"retracted": false
+			},
+			"citations": 10,
+			"results": {
+				"consensus": "towards_no",
+				"conclusion": "yes_but_small_effect",
+				"indirect": false
+			},
+			"quote": "Several findings suggest some promising uses of a CCTV as an investigative tool which enhances crime clearance. Relative to what clearance rates were before cameras were installed, CCTV's appeared to increase clearances of crimes by around 2%. [...] However, this effect appears to be mostly limited to thefts, and decays by around 500 feet",
+			"type": "EcologicalStudy",
+			"blinding": "None",
+			"sample_size": "NotSpecified",
+			"p_value": "NotSpecified",
+			"conflict_of_interest": "None",
+			"notes": []
+		},
+		{
+			"uuid": "Ao9Z6B98rpuSOuF4",
+			"openalex_id": "W3000245486",
+			"title": "Estimating the impact of an integrated CCTV program on crime",
+			"authors": [
+				"Giovanni Circo",
+				"Edmund F. McGarrell"
+			],
+			"year": 2020,
+			"link": "https://doi.org/10.1007/s11292-019-09404-y",
+			"journal": {
+				"id": "S19400458",
+				"retracted": false
+			},
+			"citations": 36,
+			"results": {
+				"consensus": "yes",
+				"conclusion": "yes",
+				"indirect": false
+			},
+			"quote": "Over time, property crimes and disorder crimes decreased faster relative to the matched controls. There was little evidence of any impact on violent crimes",
+			"type": "EcologicalStudy",
+			"blinding": "None",
+			"sample_size": "NotSpecified",
+			"p_value": "NotSpecified",
+			"conflict_of_interest": "None",
+			"notes": []
+		},
+		{
+			"uuid": "xwuFISrUM1zDFOoz",
+			"openalex_id": "W3046645780",
+			"title": "Urban Video Surveillance as a Tool to Improve Security in Public Spaces",
+			"authors": [
+				"Robert Socha",
+				"Bogusław Kogut"
+			],
+			"year": 2020,
+			"link": "https://doi.org/10.3390/su12156210",
+			"journal": {
+				"id": "S10134376",
+				"retracted": false
+			},
+			"citations": 42,
+			"results": {
+				"consensus": "no_consensus",
+				"conclusion": "yes",
+				"indirect": false
+			},
+			"quote": "The Katowice Municipal Police Headquarters recorded noticeable decreases in the number of preparatory proceedings in the seven categories of particularly onerous crimes (27% for all categories, including 24.9% for robberies, 20.2% for brawls and batteries, 16.1% for burglaries, 20.3% for theft of property, 16.4% for damage to property, and 31.4% for vehicle theft. Only in the damage to health category an increase of 16.4% was observed",
+			"type": "EcologicalStudy",
+			"blinding": "None",
+			"sample_size": "NotSpecified",
+			"p_value": "NotSpecified",
+			"conflict_of_interest": "None",
+			"notes": [
+				{
+					"title": "Study over two time periods",
+					"description": "The study compared the results of the camera installation in Katowice in 2001 and again in 2017. In 2001, there were no conclusive results, but the results were much more significant in 2017. This follows the national trend. Surveillance cameras also had a deterrent effect, although the reduction in crime may also be linked to other factors.",
+					"impact": "Positive"
+				}
+			]
+		},
+		{
 			"uuid": "YlnzqpGuMfDE7wyX",
 			"openalex_id": "W3120677778",
 			"title": "THE DETERRENT EFFECT OF SURVEILLANCE CAMERAS ON CRIME",
@@ -220,6 +579,109 @@
 			"blinding": "None",
 			"sample_size": "NotSpecified",
 			"p_value": "NotSpecified",
+			"conflict_of_interest": "None",
+			"notes": []
+		},
+		{
+			"uuid": "IJAHqHKL1D4d3X8L",
+			"openalex_id": "W3136998844",
+			"title": "The internationalisation of cctv surveillance: Effects on crime and implications for emerging technologies",
+			"authors": [
+				"Amanda L. Thomas",
+				"Eric L. Piza",
+				"Brandon C. Welsh",
+				"David P. Farrington"
+			],
+			"year": 2021,
+			"link": "https://doi.org/10.1080/01924036.2021.1879885",
+			"journal": {
+				"id": "S2764600129",
+				"retracted": false
+			},
+			"citations": 34,
+			"results": {
+				"consensus": "towards_yes",
+				"conclusion": "yes_but_small_effect",
+				"indirect": false
+			},
+			"quote": "The cumulative evidence demonstrates that CCTV surveillance is associated with significant yet modest reductions in crime and the effects vary across a range of contextual factors, including country of origin",
+			"review": {
+				"type": "MetaAnalysis",
+				"reviews": false,
+				"estimate": false,
+				"count": 80,
+				"subpart": false
+			},
+			"type": "DiverseTypes",
+			"blinding": "None",
+			"sample_size": "NotSpecified",
+			"p_value": {
+				"value": 0.001,
+				"less_than": true
+			},
+			"conflict_of_interest": "None",
+			"notes": []
+		},
+		{
+			"uuid": "CK0tArvqqRIovj3t",
+			"openalex_id": "W4394953021",
+			"title": "Video Surveillance System Usage in Preventing Crime: Preliminary findings from Malaysia",
+			"authors": [
+				"Mohd Ramdzan A. Sukor",
+				"Farrah Diana Saiful Bahry",
+				"Mazlina Pati Khan"
+			],
+			"year": 2024,
+			"link": "https://doi.org/10.21834/e-bpj.v9isi18.5482",
+			"journal": {
+				"id": "S4210181122",
+				"retracted": false
+			},
+			"citations": 0,
+			"results": {
+				"consensus": "no_consensus",
+				"conclusion": "yes_but_low_confidence",
+				"indirect": false
+			},
+			"quote": "The findings suggest that video surveillance systems can effectively deter and reduce criminal activities. However, several challenges still need to be addressed, including limited expertise in video analysis and the high costs associated with these systems",
+			"type": "EcologicalStudy",
+			"blinding": "None",
+			"sample_size": "NotSpecified",
+			"p_value": "NotSpecified",
+			"conflict_of_interest": "None",
+			"notes": []
+		},
+		{
+			"uuid": "S9Ju9Qy0Ek3soevM",
+			"openalex_id": "W4412848000",
+			"title": "Effects of CCTV on Fear of Crime: a Systematic Literature Review",
+			"authors": [
+				"Mona Tykesson"
+			],
+			"year": 2025,
+			"link": "https://doi.org/10.1007/s10610-025-09633-0",
+			"journal": {
+				"id": "S146174905",
+				"retracted": false
+			},
+			"citations": 1,
+			"results": {
+				"consensus": "NotSpecified",
+				"conclusion": "no_but_mixed_results",
+				"indirect": false
+			},
+			"quote": "The overall effects were inconclusive. Seven studies showed reductions in fear of crime; six showed mixed, marginal or no effects; and two showed increases",
+			"review": {
+				"type": "SystematicReview",
+				"reviews": false,
+				"estimate": false,
+				"count": 15,
+				"subpart": false
+			},
+			"type": "EcologicalStudy",
+			"blinding": "None",
+			"sample_size": "NotSpecified",
+			"p_value": "NotApplicable",
 			"conflict_of_interest": "None",
 			"notes": []
 		}
