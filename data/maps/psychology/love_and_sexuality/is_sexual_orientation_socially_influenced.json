@@ -112,7 +112,7 @@
 			"group": "no_but",
 			"emoji": "🔀",
 			"text": "No but mixed results",
-			"description": "The results of the paper show no significant overall effect of social and cultural factors on sexual orientation, but there are mixed results on specific cases",
+			"description": "The results of the paper show no significant overall effect of social and cultural factors on sexual orientation, but there are mixed results in specific cases",
 			"p_value": false
 		},
 		"maybe": {
@@ -159,6 +159,34 @@
 	"no_blinding": true,
 	"no_sample_size": false,
 	"papers": [
+		{
+			"uuid": "XYNnMcLiHceVZ5t8",
+			"openalex_id": "W2122033764",
+			"title": "A Genetic Study of Male Sexual Orientation",
+			"authors": [
+				"J. Michael Bailey",
+				"Richard Pillard"
+			],
+			"year": 1991,
+			"link": "https://doi.org/10.1001/archpsyc.1991.01810360053008",
+			"journal": {
+				"id": "S126359496",
+				"retracted": false
+			},
+			"citations": 506,
+			"results": {
+				"consensus": "yes",
+				"conclusion": "maybe",
+				"indirect": false
+			},
+			"quote": "A proband's self-reported history of childhood gender non-conformity did not predict homosexuality in relatives in any of the three subsamples. Thus, childhood gender nonconformity does not appear to be an indicator of genetic loading for homosexuality. Cotwins from concordant monozygotic pairs were very similar for childhood gender nonconformity",
+			"type": "CaseControlStudy",
+			"blinding": "None",
+			"sample_size": 161,
+			"p_value": "NotApplicable",
+			"conflict_of_interest": "None",
+			"notes": []
+		},
 		{
 			"uuid": "7CSWhN9RTOz20yk5",
 			"openalex_id": "W2344523805",

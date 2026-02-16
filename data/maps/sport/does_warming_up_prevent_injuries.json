@@ -1,21 +1,23 @@
 {
 	"draft": true,
-	"emoji": "🫢",
+	"emoji": "🙆",
 	"question": {
-		"short": "Do COVID-19 vaccines reduce transmission?",
-		"long": "Do COVID-19 vaccines reduce transmission?"
+		"short": "Does warming up prevent injuries?",
+		"long": "Does warming up before sport prevent injuries?"
 	},
-	"description": "Results from studies evaluating the impact of COVID-19 vaccines on transmission.",
+	"description": "Results from studies evaluating the impact of warm-up (typically before exercise) on injury incidence.",
 	"tags": [
-		"COVID-19",
-		"vaccines",
-		"transmission"
+		"sport",
+		"warm-up",
+		"warming up",
+		"injury",
+		"exercise"
 	],
 	"consensus": {
 		"no_consensus": {
 			"emoji": "🤷",
 			"text": "No consensus yet",
-			"description": "The literature has not yet reached a consensus on the effects of COVID-19 vaccines on transmission",
+			"description": "The literature has not yet reached a consensus on the effects of warm-up on injury incidence",
 			"color": "Gray",
 			"unavailable": [
 				"no_unlike_literature",
@@ -25,7 +27,7 @@
 		"no": {
 			"emoji": "👎",
 			"text": "No",
-			"description": "The literature suggests that COVID-19 vaccines do not reduce transmission",
+			"description": "The literature suggests that warm-up does not prevent injuries",
 			"color": "Red",
 			"unavailable": [
 				"no_unlike_literature",
@@ -35,7 +37,7 @@
 		"towards_no": {
 			"emoji": "⬅️",
 			"text": "Towards no",
-			"description": "The literature suggests that COVID-19 vaccines probably don't reduce transmission, but more research is needed",
+			"description": "The literature suggests that warm-up probably doesn't prevent injuries, but more research is needed",
 			"color": "Red1H",
 			"unavailable": [
 				"no_unlike_literature",
@@ -45,7 +47,7 @@
 		"towards_yes": {
 			"emoji": "➡️",
 			"text": "Towards yes",
-			"description": "The literature suggests that COVID-19 vaccines likely reduce transmission, but more research is needed",
+			"description": "The literature suggests that warm-up may prevent injuries, but more research is needed",
 			"color": "Green1H",
 			"unavailable": [
 				"no_unlike_literature",
@@ -55,7 +57,7 @@
 		"yes": {
 			"emoji": "👍",
 			"text": "Yes",
-			"description": "The literature suggests that COVID-19 vaccines reduce transmission",
+			"description": "The literature suggests that warm-up prevents injuries",
 			"color": "Green",
 			"unavailable": [
 				"no",
@@ -94,56 +96,56 @@
 			"group": "no",
 			"emoji": "👎",
 			"text": "No",
-			"description": "The results of the paper show no significant effect of the COVID-19 vaccines evaluated on transmission",
+			"description": "The results of the paper show no significant effect of warm-up on injury incidence",
 			"p_value": false
 		},
 		"no_unlike_literature": {
 			"group": "no_but",
 			"emoji": "↩️",
 			"text": "No unlike literature",
-			"description": "The results of the paper show no significant effect of the COVID-19 vaccines evaluated on transmission, unlike what is reported in the literature",
+			"description": "The results of the paper show no significant effect of warm-up on injury incidence, unlike what is reported in the literature",
 			"p_value": false
 		},
 		"no_but_mixed_results": {
 			"group": "no_but",
 			"emoji": "🔀",
 			"text": "No but mixed results",
-			"description": "The results of the paper show no significant overall effect of the COVID-19 vaccines evaluated on transmission, but there are mixed results in specific cases",
+			"description": "The results of the paper show no significant overall effect of warm-up on injury incidence, but there are mixed results in specific cases",
 			"p_value": false
 		},
 		"maybe": {
 			"group": "maybe",
 			"emoji": "🤷",
 			"text": "Maybe",
-			"description": "The results of the paper suggest that the COVID-19 vaccines evaluated might have an effect on transmission, but the evidence is not strong enough to conclude",
+			"description": "The results of the paper suggest that warm-up might have an effect on injury incidence, but the evidence is not strong enough to conclude",
 			"p_value": false
 		},
 		"yes_but_low_confidence": {
 			"group": "yes_but",
 			"emoji": "🤔",
 			"text": "Yes but low confidence",
-			"description": "The results of the paper suggest that the COVID-19 vaccines evaluated may reduce transmission, but the evidence is not strong",
+			"description": "The results of the paper suggest that warm-up may prevent injuries, but the evidence is not strong",
 			"p_value": true
 		},
 		"yes_but_small_effect": {
 			"group": "yes_but",
 			"emoji": "🤏",
 			"text": "Yes but small effect",
-			"description": "The results of the paper suggest that the COVID-19 vaccines evaluated may have a small effect on transmission",
+			"description": "The results of the paper suggest that warm-up may have a small effect on injury incidence",
 			"p_value": true
 		},
 		"yes_unlike_literature": {
 			"group": "yes_but",
 			"emoji": "↪️",
 			"text": "Yes unlike literature",
-			"description": "The results of the paper suggest that the COVID-19 vaccines evaluated may reduce transmission, unlike what is reported in the literature",
+			"description": "The results of the paper suggest that warm-up may prevent injuries, unlike what is reported in the literature",
 			"p_value": true
 		},
 		"yes": {
 			"group": "yes",
 			"emoji": "👍",
 			"text": "Yes",
-			"description": "The results of the paper suggest that the COVID-19 vaccines evaluated reduce transmission",
+			"description": "The results of the paper suggest that warm-up prevents injuries",
 			"p_value": true
 		}
 	},
@@ -152,7 +154,7 @@
 		"no_causation": false,
 		"any": false
 	},
-	"no_blinding": false,
+	"no_blinding": true,
 	"no_sample_size": false,
 	"papers": []
 }

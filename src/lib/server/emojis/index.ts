@@ -16,6 +16,7 @@ export const EMOJI_NAMES = {
 	'🫣': 'face-with-peeking-eye',
 	'🤔': 'thinking-face',
 	'🤐': 'zipper-mouth-face',
+	'🤨': 'face-with-raised-eyebrow',
 	'😐': 'neutral-face',
 	'🫥': 'dotted-line-face',
 	'😮‍💨': 'face-exhaling',
@@ -23,7 +24,9 @@ export const EMOJI_NAMES = {
 	'😷': 'face-with-medical-mask',
 	'🤒': 'face-with-thermometer',
 	'🤮': 'face-vomiting',
+	'🥴': 'woozy-face',
 	'😵': 'dizzy-face',
+	'😵‍💫': 'face-with-spiral-eyes',
 	'😎': 'smiling-face-with-sunglasses',
 	'🧐': 'face-with-monocle',
 	'🫤': 'face-with-diagonal-mouth',
@@ -39,12 +42,17 @@ export const EMOJI_NAMES = {
 	'👎': 'thumbs-down',
 	'🧠': 'brain',
 	'👀': 'eyes',
+	'🙅': 'person-gesturing-no',
+	'🙆': 'person-gesturing-ok',
 	'🙋': 'person-raising-hand',
 	'🤷': 'person-shrugging',
 	'🧑‍🏫': 'teacher',
+	'🧑‍🌾': 'farmer',
+	'🤰': 'pregnant-woman',
 	'🧍': 'person-standing',
 	'🏃‍➡️': 'person-running-facing-right',
 	'🏋️': 'person-lifting-weights',
+	'🤸': 'person-cartwheeling',
 	'🧑‍🤝‍🧑': 'people-holding-hands',
 	'👥': 'busts-in-silhouette',
 	'👪': 'family',
@@ -56,10 +64,17 @@ export const EMOJI_NAMES = {
 	'🐭': 'mouse-face',
 	'🦇': 'bat',
 	'🦠': 'microbe',
+	'🌾': 'sheaf-of-rice',
 	'🌈': 'rainbow',
+	'☔': 'umbrella-with-rain-drops',
+	'⚡️': 'high-voltage',
 
 	// Food & Drink
+	'🍅': 'tomato',
 	'🌽': 'ear-of-corn',
+	'🍖': 'meat-on-bone',
+	'🥩': 'cut-of-meat',
+	'🥓': 'bacon',
 	'🍔': 'hamburger',
 	'🍬': 'candy',
 	'🍶': 'sake',
@@ -67,6 +82,8 @@ export const EMOJI_NAMES = {
 
 	// Activity
 	'🏆': 'trophy',
+	'🔮': 'crystal-ball',
+	'🎮': 'video-game',
 	'🎲': 'game-die',
 	'🧩': 'puzzle-piece',
 
@@ -75,6 +92,8 @@ export const EMOJI_NAMES = {
 	'🌐': 'globe-with-meridians',
 	'🏠': 'house',
 	'🏫': 'school',
+	'🚗': 'automobile',
+	'⛽': 'fuel-pump',
 
 	// Objects
 	'⏳': 'hourglass-not-done',
@@ -95,6 +114,7 @@ export const EMOJI_NAMES = {
 	'📊': 'bar-chart',
 	'🗑️': 'wastebasket',
 	'🔒': 'locked',
+	'🪃': 'boomerang',
 	'⚖️': 'balance-scale',
 	'🔗': 'link',
 	'⚗️': 'alembic',
@@ -115,7 +135,9 @@ export const EMOJI_NAMES = {
 	'↪️': 'left-arrow-curving-right',
 	'↩️': 'right-arrow-curving-left',
 	'🔀': 'shuffle-tracks-button',
+	'⚧️': 'transgender-symbol',
 	'🟰': 'heavy-equals-sign',
+	'⚕️': 'medical-symbol',
 };
 
 
